@@ -1,0 +1,9 @@
+exNoStudentFound EXCEPTION;
+
+RAISE excNoStudentFound;
+
+EXCEPTION
+  WHEN excNoStudentFound THEN
+    DBMS_OUTPUT.PUT_LINE('error');
+  WHEN OTHERS THEN
+    DBMS_OUTPUT.PUT_LINE(SQLERRM);

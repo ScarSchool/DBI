@@ -1,0 +1,107 @@
+﻿<Window x:Class="Soccer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Soccer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1280"
+        Closed="onWindow_Closed">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="72"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="32"/>
+        </Grid.RowDefinitions>
+
+        <GroupBox Header="Login Information" Padding="8">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBox x:Name="txtUser" Text="d4b06" VerticalContentAlignment="Center" Margin="2"/>
+                <PasswordBox x:Name="txtPassword" Password="d4b" Grid.Column="1" VerticalContentAlignment="Center" Margin="2"/>
+                <TextBox x:Name="txtHost" Text="192.168.210.250" Grid.Column="2" VerticalContentAlignment="Center" Margin="2"/>
+            </Grid>
+        </GroupBox>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="192"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <GroupBox Header="Control Center" Padding="8">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="48"/>
+                        <RowDefinition Height="48"/>
+                        <RowDefinition Height="48"/>
+                        <RowDefinition Height="48"/>
+                        <RowDefinition Height="48"/>
+                        <RowDefinition Height="48"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Button x:Name="btnConnect" Content="Connect" Click="Button_Click" Margin="2"/>
+                    <Button x:Name="btnLoad" Content="Load" Click="Button_Click" Grid.Row="1" Margin="2"/>
+                    <Button x:Name="btnUpdate" Content="Update" Click="Button_Click" Grid.Row="2" Margin="2"/>
+                    <Button x:Name="btnDeleteTeam" Content="Delete Team" Click="Button_Click" Grid.Row="3" Margin="2"/>
+                    <Button x:Name="btnDeletePlayer" Content="Delete Player" Click="Button_Click" Grid.Row="4" Margin="2"/>
+                    <Button x:Name="btnDeleteScore" Content="Delete Score" Click="Button_Click" Grid.Row="5" Margin="2"/>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox Header="Information Center" Padding="8" Grid.Column="1">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="32"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="16"/>
+                        <RowDefinition Height="32"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="16"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <DataGrid x:Name="dgTeams" Grid.RowSpan="4" AutoGenerateColumns="False" AddingNewItem="OnNewItem" RowEditEnding="OnRowChanged" SelectionChanged="Row_Selected">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Id" Binding="{Binding Id}" Width="1*" IsReadOnly="True"/>
+                            <DataGridTextColumn Header="Country" Binding="{Binding Country, UpdateSourceTrigger=PropertyChanged}" Width="2*"/>
+                            <DataGridTextColumn Header="Coach" Binding="{Binding Coach, UpdateSourceTrigger=PropertyChanged}" Width="2*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <Label Content="Players" Grid.Column="2" Background="LawnGreen"/>
+
+                    <DataGrid x:Name="dgPlayers" Grid.Column="2" Grid.Row="1" AutoGenerateColumns="False" AddingNewItem="OnNewItem" RowEditEnding="OnRowChanged" SelectionChanged="Row_Selected">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Id" Binding="{Binding Id}" Width="1*" IsReadOnly="True"/>
+                            <DataGridTextColumn Header="Name" Binding="{Binding Name, UpdateSourceTrigger=PropertyChanged}" Width="2*"/>
+                            <DataGridTextColumn Header="Birthdate" Binding="{Binding BirthdateFormatted, UpdateSourceTrigger=PropertyChanged}" Width="2*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <Label Content="Scores" Grid.Column="2" Grid.Row="3" Background="LawnGreen"/>
+
+                    <DataGrid x:Name="dgScores" Grid.Column="2" Grid.Row="4" AutoGenerateColumns="False" AddingNewItem="OnNewItem" RowEditEnding="OnRowChanged" SelectionChanged="Row_Selected">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Gamedate" Binding="{Binding GameDateFormatted, UpdateSourceTrigger=PropertyChanged}" Width="2*" IsReadOnly="True"/>
+                            <DataGridTextColumn Header="Opponent" Binding="{Binding Opponent, UpdateSourceTrigger=PropertyChanged}" Width="2*"/>
+                            <DataGridTextColumn Header="Goals" Binding="{Binding Goals, UpdateSourceTrigger=PropertyChanged}" Width="1*"/>
+                            <DataGridTextColumn Header="Assists" Binding="{Binding Assists, UpdateSourceTrigger=PropertyChanged}" Width="1*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </GroupBox>
+        </Grid>
+
+        <Label x:Name="lblStatus" Content="..." Grid.Row="2" Background="WhiteSmoke"/>
+    </Grid>
+</Window>

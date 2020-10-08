@@ -1,0 +1,14 @@
+Liebe Leute,
+
+heute ist Konsolidierung angesagt;
+wichtig ist (bevor ihr glaubts, dass ihr fertig seits)
+dass es die Längen/Breitengrade überprüfts
+nach Ostern kommen die SpatialFunktionen von MS SQL,
+zB zeige mir die Plätze im Umkreis von 200m von meinem aktuellen Standpunkt
+und wenn da die Werte nicht stimmen, wirds es weinen 
+(weils keine Schwammerln nicht findets).
+Kleiner Tipp: die errechneten Werte können zB NICHT über die MIN/MAX - Grenzen der Karte hinausgehen
+
+
+viele Grüße
+Gerald Ortner

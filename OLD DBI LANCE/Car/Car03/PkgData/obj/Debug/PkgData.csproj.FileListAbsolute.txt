@@ -1,0 +1,29 @@
+\\vmware-host\Shared Folders\DBI\Car01\PkgData\bin\Debug\PkgData.dll
+\\vmware-host\Shared Folders\DBI\Car01\PkgData\bin\Debug\PkgData.pdb
+\\vmware-host\Shared Folders\DBI\Car01\PkgData\obj\Debug\PkgData.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\DBI\Car01\PkgData\obj\Debug\PkgData.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\DBI\Car01\PkgData\obj\Debug\PkgData.dll
+\\vmware-host\Shared Folders\DBI\Car01\PkgData\obj\Debug\PkgData.pdb
+C:\Users\User\Documents\school\DBI\Car01\PkgData\bin\Debug\PkgData.dll
+C:\Users\User\Documents\school\DBI\Car01\PkgData\bin\Debug\PkgData.pdb
+C:\Users\User\Documents\school\DBI\Car01\PkgData\obj\Debug\PkgData.csprojAssemblyReference.cache
+C:\Users\User\Documents\school\DBI\Car01\PkgData\obj\Debug\PkgData.dll
+C:\Users\User\Documents\school\DBI\Car01\PkgData\obj\Debug\PkgData.pdb
+C:\Users\User\Documents\school\DBI\Car02\PkgData\obj\Debug\PkgData.csprojAssemblyReference.cache
+C:\Users\User\Documents\school\DBI\Car02\PkgData\obj\Debug\PkgData.dll
+C:\Users\User\Documents\school\DBI\Car02\PkgData\obj\Debug\PkgData.pdb
+C:\Users\User\Documents\school\DBI\Car02\PkgData\bin\Debug\PkgData.dll
+C:\Users\User\Documents\school\DBI\Car02\PkgData\bin\Debug\PkgData.pdb
+C:\Users\User\Documents\school\DBI\Car02\PkgData\bin\Debug\pkgMiscellaneous.dll
+C:\Users\User\Documents\school\DBI\Car02\PkgData\bin\Debug\pkgMiscellaneous.pdb
+C:\Users\User\Documents\school\DBI\Car02\PkgData\obj\Debug\PkgData.csproj.CopyComplete
+\\vmware-host\Shared Folders\DBI\Car03\PkgData\bin\Debug\PkgData.dll
+\\vmware-host\Shared Folders\DBI\Car03\PkgData\bin\Debug\PkgData.pdb
+\\vmware-host\Shared Folders\DBI\Car03\PkgData\bin\Debug\pkgMiscellaneous.dll
+\\vmware-host\Shared Folders\DBI\Car03\PkgData\bin\Debug\pkgMiscellaneous.pdb
+\\vmware-host\Shared Folders\DBI\Car03\PkgData\obj\Debug\PkgData.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\DBI\Car03\PkgData\obj\Debug\PkgData.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\DBI\Car03\PkgData\obj\Debug\PkgData.csproj.CopyComplete
+\\vmware-host\Shared Folders\DBI\Car03\PkgData\obj\Debug\PkgData.dll
+\\vmware-host\Shared Folders\DBI\Car03\PkgData\obj\Debug\PkgData.pdb
+\\vmware-host\Shared Folders\DBI\Car03\PkgData\bin\Debug\Oracle.ManagedDataAccess.dll

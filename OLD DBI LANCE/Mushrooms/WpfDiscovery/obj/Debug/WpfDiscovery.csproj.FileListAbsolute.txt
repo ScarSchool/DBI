@@ -1,0 +1,29 @@
+\\vmware-host\Shared Folders\DBI\Mushrooms\WpfDiscovery\bin\Debug\WpfDiscovery.dll
+\\vmware-host\Shared Folders\DBI\Mushrooms\WpfDiscovery\bin\Debug\WpfDiscovery.pdb
+\\vmware-host\Shared Folders\DBI\Mushrooms\WpfDiscovery\obj\Debug\WpfDiscovery.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\DBI\Mushrooms\WpfDiscovery\obj\Debug\DiscoveryWindow.g.cs
+\\vmware-host\Shared Folders\DBI\Mushrooms\WpfDiscovery\obj\Debug\WpfDiscovery_MarkupCompile.cache
+\\vmware-host\Shared Folders\DBI\Mushrooms\WpfDiscovery\obj\Debug\WpfDiscovery_MarkupCompile.lref
+\\vmware-host\Shared Folders\DBI\Mushrooms\WpfDiscovery\obj\Debug\DiscoveryWindow.baml
+\\vmware-host\Shared Folders\DBI\Mushrooms\WpfDiscovery\obj\Debug\WpfDiscovery.g.resources
+\\vmware-host\Shared Folders\DBI\Mushrooms\WpfDiscovery\obj\Debug\WpfDiscovery.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\DBI\Mushrooms\WpfDiscovery\obj\Debug\WpfDiscovery.dll
+\\vmware-host\Shared Folders\DBI\Mushrooms\WpfDiscovery\obj\Debug\WpfDiscovery.pdb
+\\vmware-host\Shared Folders\DBI\Mushrooms\WpfDiscovery\bin\Debug\pkgDatabase.dll
+\\vmware-host\Shared Folders\DBI\Mushrooms\WpfDiscovery\bin\Debug\pkgDatabase.pdb
+\\vmware-host\Shared Folders\DBI\Mushrooms\WpfDiscovery\obj\Debug\WpfDiscovery.csproj.CopyComplete
+Z:\Mushrooms\WpfDiscovery\bin\Debug\WpfDiscovery.dll
+Z:\Mushrooms\WpfDiscovery\bin\Debug\WpfDiscovery.pdb
+Z:\Mushrooms\WpfDiscovery\bin\Debug\pkgDatabase.dll
+Z:\Mushrooms\WpfDiscovery\bin\Debug\pkgDatabase.pdb
+Z:\Mushrooms\WpfDiscovery\obj\Debug\WpfDiscovery.csprojAssemblyReference.cache
+Z:\Mushrooms\WpfDiscovery\obj\Debug\DiscoveryWindow.g.cs
+Z:\Mushrooms\WpfDiscovery\obj\Debug\WpfDiscovery_MarkupCompile.cache
+Z:\Mushrooms\WpfDiscovery\obj\Debug\WpfDiscovery_MarkupCompile.lref
+Z:\Mushrooms\WpfDiscovery\obj\Debug\DiscoveryWindow.baml
+Z:\Mushrooms\WpfDiscovery\obj\Debug\WpfDiscovery.g.resources
+Z:\Mushrooms\WpfDiscovery\obj\Debug\WpfDiscovery.csproj.CoreCompileInputs.cache
+Z:\Mushrooms\WpfDiscovery\obj\Debug\WpfDiscovery.csproj.CopyComplete
+Z:\Mushrooms\WpfDiscovery\obj\Debug\WpfDiscovery.dll
+Z:\Mushrooms\WpfDiscovery\obj\Debug\WpfDiscovery.pdb
+Z:\Mushrooms\WpfDiscovery\bin\Debug\Microsoft.SqlServer.Types.dll

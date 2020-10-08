@@ -1,0 +1,14 @@
+\\vmware-host\Shared Folders\DBI\Mushrooms\pkgDatabase\bin\Debug\pkgDatabase.dll
+\\vmware-host\Shared Folders\DBI\Mushrooms\pkgDatabase\bin\Debug\pkgDatabase.pdb
+\\vmware-host\Shared Folders\DBI\Mushrooms\pkgDatabase\obj\Debug\pkgDatabase.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\DBI\Mushrooms\pkgDatabase\obj\Debug\pkgDatabase.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\DBI\Mushrooms\pkgDatabase\obj\Debug\pkgDatabase.dll
+\\vmware-host\Shared Folders\DBI\Mushrooms\pkgDatabase\obj\Debug\pkgDatabase.pdb
+Z:\Mushrooms\pkgDatabase\bin\Debug\pkgDatabase.dll
+Z:\Mushrooms\pkgDatabase\bin\Debug\pkgDatabase.pdb
+Z:\Mushrooms\pkgDatabase\obj\Debug\pkgDatabase.csprojAssemblyReference.cache
+Z:\Mushrooms\pkgDatabase\obj\Debug\pkgDatabase.csproj.CoreCompileInputs.cache
+Z:\Mushrooms\pkgDatabase\obj\Debug\pkgDatabase.dll
+Z:\Mushrooms\pkgDatabase\obj\Debug\pkgDatabase.pdb
+Z:\Mushrooms\pkgDatabase\bin\Debug\Microsoft.SqlServer.Types.dll
+Z:\Mushrooms\pkgDatabase\obj\Debug\pkgDatabase.csproj.CopyComplete

@@ -1,0 +1,141 @@
+﻿<Window x:Class="Car01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Car01"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20px"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="48px"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="4*"/>
+        </Grid.ColumnDefinitions>
+
+        <Menu Grid.ColumnSpan="2">
+            <MenuItem Header="File">
+                <MenuItem x:Name="miStoreBin" Header="Store" Click="OnSelectFileMenu"></MenuItem>
+                <MenuItem x:Name="miLoadBin" Header="Load"  Click="OnSelectFileMenu"></MenuItem>
+                <MenuItem x:Name="miStoreXml" Header="Store XML"  Click="OnSelectFileMenu"></MenuItem>
+                <MenuItem x:Name="miLoadXml" Header="Load XML"  Click="OnSelectFileMenu"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Database">
+                <MenuItem Header="Begin Trx" Click="OnSelectFileMenu"></MenuItem>
+                <MenuItem Header="Load"  Click="OnSelectFileMenu"></MenuItem>
+                <MenuItem Header="Roleback"  Click="OnSelectFileMenu"></MenuItem>
+                <MenuItem Header="Commit"  Click="OnSelectFileMenu"></MenuItem>
+            </MenuItem>
+        </Menu>
+        
+        <Grid Grid.RowSpan="2" Grid.Row="1"
+              Margin="8px" Background="WhiteSmoke">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="3*"/>
+            </Grid.RowDefinitions>
+
+            <Button x:Name="btnAddCar" Click="OnButtonCarClick" 
+                    Margin="4px">
+                Add Car
+            </Button>
+            <Button x:Name="btnUpdateCar" Click="OnButtonCarClick" Grid.Row="1"
+                    Margin="4px">
+                Update Car
+            </Button>
+            <Button x:Name="btnDelCar" Click="OnButtonCarClick" Grid.Row="2"
+                    Margin="4px">
+                Delete Car
+            </Button>
+            <Button x:Name="btnSort" Click="OnButtonCarClick" Grid.Row="3"
+                    Margin="4px">
+                Sort
+            </Button>
+            <TextBox x:Name="txtImage" Grid.Row="4"
+                     Padding="4px" Margin="4px"
+                     VerticalAlignment="Bottom">
+                image path
+            </TextBox>
+            <Button x:Name="btnLoadImage" Click="OnButtonCarClick" Grid.Row="5"
+                    Margin="4px">
+                Load Image
+            </Button>
+            <Image x:Name="image" Grid.Row="6">
+            </Image>
+        </Grid>
+
+        <Grid Grid.Column="1" Grid.Row="1"
+              Margin="4px" Background="LightCoral">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label VerticalAlignment="Center">
+                car-id:
+            </Label>
+            <TextBox x:Name="txtCarId" Grid.Column="1"
+                     Margin="4px" VerticalAlignment="Center">
+                11
+            </TextBox>
+            
+            <Label Grid.Row="1"
+                   VerticalAlignment="Center">
+                car-name:
+            </Label>
+            <TextBox x:Name="txtCarName" Grid.Column="1" Grid.Row="1"
+                     Margin="4px" VerticalAlignment="Center">
+                Isetta
+            </TextBox>
+
+            <Label Grid.Row="2"
+                   VerticalAlignment="Center">
+                car-type:
+            </Label>
+            <ComboBox x:Name="cbCarType" Grid.Row="2" Grid.Column="1" Margin="4px"></ComboBox>
+        </Grid>
+
+        <Grid Grid.Column="1" Grid.Row="2"
+              Margin="4px">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+
+            <ListView x:Name="listCars" Grid.Column="1"
+                  Background="AliceBlue" SelectionChanged="OnCarSelected">
+            </ListView>
+
+            <DataGrid x:Name="dgCars" CanUserAddRows="False" SelectionChanged="OnCarSelected" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Car Id" Binding="{Binding CarId}" Width="1*"/>
+                    <DataGridTextColumn Header="Car Name" Binding="{Binding CarName}" Width="2*"/>
+                    <DataGridTextColumn Header="Car Type" Binding="{Binding Type}" Width="2*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+
+        <Label x:Name="lblMessage" Grid.Row="3" Grid.ColumnSpan="2"
+               Margin="8px" Background="Beige">
+            
+        </Label>
+    </Grid>
+</Window>

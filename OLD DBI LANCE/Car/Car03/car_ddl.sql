@@ -1,0 +1,15 @@
+DROP TABLE cars CASCADE CONSTRAINTS;
+
+CREATE SEQUENCE seqOwner;
+
+CREATE TABLE cars (
+    carid INTEGER,
+    carname VARCHAR2(30),
+    cartype VARCHAR2(30),
+    CONSTRAINT pkCars PRIMARY KEY (carid)
+);
+
+INSERT INTO cars VALUES(11,'Ford Edsel','SEDAN');
+INSERT INTO cars VALUES(22,'Fiat 500','MICRO');
+
+COMMIT;

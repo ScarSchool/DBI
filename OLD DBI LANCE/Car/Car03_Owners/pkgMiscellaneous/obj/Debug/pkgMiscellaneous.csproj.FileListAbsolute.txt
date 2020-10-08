@@ -1,0 +1,17 @@
+C:\Users\User\Documents\school\DBI\Car02\pkgMiscellaneous\bin\Debug\pkgMiscellaneous.dll
+C:\Users\User\Documents\school\DBI\Car02\pkgMiscellaneous\bin\Debug\pkgMiscellaneous.pdb
+C:\Users\User\Documents\school\DBI\Car02\pkgMiscellaneous\obj\Debug\pkgMiscellaneous.csprojAssemblyReference.cache
+C:\Users\User\Documents\school\DBI\Car02\pkgMiscellaneous\obj\Debug\pkgMiscellaneous.dll
+C:\Users\User\Documents\school\DBI\Car02\pkgMiscellaneous\obj\Debug\pkgMiscellaneous.pdb
+\\vmware-host\Shared Folders\DBI\Car03\pkgMiscellaneous\bin\Debug\pkgMiscellaneous.dll
+\\vmware-host\Shared Folders\DBI\Car03\pkgMiscellaneous\bin\Debug\pkgMiscellaneous.pdb
+\\vmware-host\Shared Folders\DBI\Car03\pkgMiscellaneous\obj\Debug\pkgMiscellaneous.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\DBI\Car03\pkgMiscellaneous\obj\Debug\pkgMiscellaneous.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\DBI\Car03\pkgMiscellaneous\obj\Debug\pkgMiscellaneous.dll
+\\vmware-host\Shared Folders\DBI\Car03\pkgMiscellaneous\obj\Debug\pkgMiscellaneous.pdb
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\pkgMiscellaneous\bin\Debug\pkgMiscellaneous.dll
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\pkgMiscellaneous\bin\Debug\pkgMiscellaneous.pdb
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\pkgMiscellaneous\obj\Debug\pkgMiscellaneous.csprojAssemblyReference.cache
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\pkgMiscellaneous\obj\Debug\pkgMiscellaneous.csproj.CoreCompileInputs.cache
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\pkgMiscellaneous\obj\Debug\pkgMiscellaneous.dll
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\pkgMiscellaneous\obj\Debug\pkgMiscellaneous.pdb

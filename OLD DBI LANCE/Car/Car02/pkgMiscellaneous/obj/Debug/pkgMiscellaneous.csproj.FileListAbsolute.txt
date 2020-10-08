@@ -1,0 +1,5 @@
+C:\Users\User\Documents\school\DBI\Car02\pkgMiscellaneous\bin\Debug\pkgMiscellaneous.dll
+C:\Users\User\Documents\school\DBI\Car02\pkgMiscellaneous\bin\Debug\pkgMiscellaneous.pdb
+C:\Users\User\Documents\school\DBI\Car02\pkgMiscellaneous\obj\Debug\pkgMiscellaneous.csprojAssemblyReference.cache
+C:\Users\User\Documents\school\DBI\Car02\pkgMiscellaneous\obj\Debug\pkgMiscellaneous.dll
+C:\Users\User\Documents\school\DBI\Car02\pkgMiscellaneous\obj\Debug\pkgMiscellaneous.pdb

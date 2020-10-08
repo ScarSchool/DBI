@@ -1,0 +1,15 @@
+Z:\Soccer\pkgData\bin\Debug\pkgData.dll
+Z:\Soccer\pkgData\bin\Debug\pkgData.pdb
+Z:\Soccer\pkgData\bin\Debug\Oracle.ManagedDataAccess.dll
+Z:\Soccer\pkgData\obj\Debug\pkgData.csprojAssemblyReference.cache
+Z:\Soccer\pkgData\obj\Debug\pkgData.csproj.CoreCompileInputs.cache
+Z:\Soccer\pkgData\obj\Debug\pkgData.csproj.CopyComplete
+Z:\Soccer\pkgData\obj\Debug\pkgData.dll
+Z:\Soccer\pkgData\obj\Debug\pkgData.pdb
+\\vmware-host\Shared Folders\DBI\Soccer\pkgData\bin\Debug\pkgData.dll
+\\vmware-host\Shared Folders\DBI\Soccer\pkgData\bin\Debug\pkgData.pdb
+\\vmware-host\Shared Folders\DBI\Soccer\pkgData\obj\Debug\pkgData.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\DBI\Soccer\pkgData\obj\Debug\pkgData.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\DBI\Soccer\pkgData\obj\Debug\pkgData.csproj.CopyComplete
+\\vmware-host\Shared Folders\DBI\Soccer\pkgData\obj\Debug\pkgData.dll
+\\vmware-host\Shared Folders\DBI\Soccer\pkgData\obj\Debug\pkgData.pdb

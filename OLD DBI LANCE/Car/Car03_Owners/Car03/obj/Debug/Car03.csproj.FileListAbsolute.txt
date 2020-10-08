@@ -1,0 +1,105 @@
+\\vmware-host\Shared Folders\DBI\Car03\Car03\bin\Debug\Car01.exe.config
+\\vmware-host\Shared Folders\DBI\Car03\Car03\bin\Debug\Car01.exe
+\\vmware-host\Shared Folders\DBI\Car03\Car03\bin\Debug\Car01.pdb
+\\vmware-host\Shared Folders\DBI\Car03\Car03\bin\Debug\PkgData.dll
+\\vmware-host\Shared Folders\DBI\Car03\Car03\bin\Debug\pkgMiscellaneous.dll
+\\vmware-host\Shared Folders\DBI\Car03\Car03\bin\Debug\PkgData.pdb
+\\vmware-host\Shared Folders\DBI\Car03\Car03\bin\Debug\pkgMiscellaneous.pdb
+\\vmware-host\Shared Folders\DBI\Car03\Car03\obj\Debug\Car03.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\DBI\Car03\Car03\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\DBI\Car03\Car03\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\DBI\Car03\Car03\obj\Debug\Car01_MarkupCompile.cache
+\\vmware-host\Shared Folders\DBI\Car03\Car03\obj\Debug\Car01_MarkupCompile.lref
+\\vmware-host\Shared Folders\DBI\Car03\Car03\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\DBI\Car03\Car03\obj\Debug\Car01.g.resources
+\\vmware-host\Shared Folders\DBI\Car03\Car03\obj\Debug\Car01.Properties.Resources.resources
+\\vmware-host\Shared Folders\DBI\Car03\Car03\obj\Debug\Car03.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\DBI\Car03\Car03\obj\Debug\Car03.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\DBI\Car03\Car03\obj\Debug\Car03.csproj.CopyComplete
+\\vmware-host\Shared Folders\DBI\Car03\Car03\obj\Debug\Car01.exe
+\\vmware-host\Shared Folders\DBI\Car03\Car03\obj\Debug\Car01.pdb
+\\vmware-host\Shared Folders\DBI\Car03\Car03\bin\Debug\Oracle.ManagedDataAccess.dll
+Z:\Car03_Owners\Car03\obj\Debug\Car03.csprojAssemblyReference.cache
+Z:\Car03_Owners\Car03\obj\Debug\MainWindow.g.cs
+Z:\Car03_Owners\Car03\obj\Debug\App.g.cs
+Z:\Car03_Owners\Car03\obj\Debug\Car01_MarkupCompile.cache
+Z:\Car03_Owners\Car03\obj\Debug\Car01_MarkupCompile.lref
+Z:\Car03_Owners\Car03\obj\Debug\Car01.exe
+Z:\Car03_Owners\Car03\obj\Debug\Car01.pdb
+Z:\Car03_Owners\Car03\bin\Debug\Car01.exe.config
+Z:\Car03_Owners\Car03\bin\Debug\Car01.exe
+Z:\Car03_Owners\Car03\bin\Debug\Car01.pdb
+Z:\Car03_Owners\Car03\bin\Debug\PkgData.dll
+Z:\Car03_Owners\Car03\bin\Debug\pkgMiscellaneous.dll
+Z:\Car03_Owners\Car03\bin\Debug\Oracle.ManagedDataAccess.dll
+Z:\Car03_Owners\Car03\bin\Debug\PkgData.pdb
+Z:\Car03_Owners\Car03\bin\Debug\pkgMiscellaneous.pdb
+Z:\Car03_Owners\Car03\obj\Debug\MainWindow.baml
+Z:\Car03_Owners\Car03\obj\Debug\Car01.g.resources
+Z:\Car03_Owners\Car03\obj\Debug\Car01.Properties.Resources.resources
+Z:\Car03_Owners\Car03\obj\Debug\Car03.csproj.GenerateResource.cache
+Z:\Car03_Owners\Car03\obj\Debug\Car03.csproj.CoreCompileInputs.cache
+Z:\Car03_Owners\Car03\obj\Debug\Car03.csproj.CopyComplete
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\bin\Debug\Car01.exe.config
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\bin\Debug\Car01.exe
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\bin\Debug\Car01.pdb
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\bin\Debug\PkgData.dll
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\bin\Debug\pkgMiscellaneous.dll
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\bin\Debug\Oracle.ManagedDataAccess.dll
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\bin\Debug\PkgData.pdb
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\bin\Debug\pkgMiscellaneous.pdb
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\obj\Debug\Car03.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\obj\Debug\Car01_MarkupCompile.cache
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\obj\Debug\Car01_MarkupCompile.lref
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\obj\Debug\Car01.g.resources
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\obj\Debug\Car01.Properties.Resources.resources
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\obj\Debug\Car03.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\obj\Debug\Car03.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\obj\Debug\Car03.csproj.CopyComplete
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\obj\Debug\Car01.exe
+\\vmware-host\Shared Folders\DBI\Car03_Owners\Car03\obj\Debug\Car01.pdb
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\bin\Debug\Car01.exe.config
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\bin\Debug\Car01.exe
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\bin\Debug\Car01.pdb
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\bin\Debug\PkgData.dll
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\bin\Debug\pkgMiscellaneous.dll
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\bin\Debug\Oracle.ManagedDataAccess.dll
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\bin\Debug\PkgData.pdb
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\bin\Debug\pkgMiscellaneous.pdb
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\obj\Debug\Car03.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\obj\Debug\Car01_MarkupCompile.cache
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\obj\Debug\Car01_MarkupCompile.lref
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\obj\Debug\Car01.g.resources
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\obj\Debug\Car01.Properties.Resources.resources
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\obj\Debug\Car03.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\obj\Debug\Car03.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\obj\Debug\Car03.csproj.CopyComplete
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\obj\Debug\Car01.exe
+\\vmware-host\Shared Folders\DBI\Car\Car03_Owners\Car03\obj\Debug\Car01.pdb
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\bin\Debug\Car01.exe.config
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\bin\Debug\Car01.exe
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\bin\Debug\Car01.pdb
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\bin\Debug\PkgData.dll
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\bin\Debug\pkgMiscellaneous.dll
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\bin\Debug\PkgData.pdb
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\bin\Debug\pkgMiscellaneous.pdb
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\obj\Debug\Car03.csprojAssemblyReference.cache
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\obj\Debug\MainWindow.g.cs
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\obj\Debug\App.g.cs
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\obj\Debug\Car01_MarkupCompile.cache
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\obj\Debug\Car01_MarkupCompile.lref
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\obj\Debug\MainWindow.baml
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\obj\Debug\Car01.g.resources
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\obj\Debug\Car01.Properties.Resources.resources
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\obj\Debug\Car03.csproj.GenerateResource.cache
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\obj\Debug\Car03.csproj.CoreCompileInputs.cache
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\obj\Debug\Car03.csproj.CopyComplete
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\obj\Debug\Car01.exe
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Eigenständige Übung\DBI_LANCE\Car\Car03_Owners\Car03\obj\Debug\Car01.pdb

@@ -1,0 +1,11 @@
+\\vmware-host\Shared Folders\DBI\Car01\PkgData\bin\Debug\PkgData.dll
+\\vmware-host\Shared Folders\DBI\Car01\PkgData\bin\Debug\PkgData.pdb
+\\vmware-host\Shared Folders\DBI\Car01\PkgData\obj\Debug\PkgData.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\DBI\Car01\PkgData\obj\Debug\PkgData.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\DBI\Car01\PkgData\obj\Debug\PkgData.dll
+\\vmware-host\Shared Folders\DBI\Car01\PkgData\obj\Debug\PkgData.pdb
+C:\Users\User\Documents\school\DBI\Car01\PkgData\bin\Debug\PkgData.dll
+C:\Users\User\Documents\school\DBI\Car01\PkgData\bin\Debug\PkgData.pdb
+C:\Users\User\Documents\school\DBI\Car01\PkgData\obj\Debug\PkgData.csprojAssemblyReference.cache
+C:\Users\User\Documents\school\DBI\Car01\PkgData\obj\Debug\PkgData.dll
+C:\Users\User\Documents\school\DBI\Car01\PkgData\obj\Debug\PkgData.pdb

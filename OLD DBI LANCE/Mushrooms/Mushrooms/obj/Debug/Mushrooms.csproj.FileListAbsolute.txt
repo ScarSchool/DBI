@@ -1,0 +1,41 @@
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\bin\Debug\Mushrooms.exe.config
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\bin\Debug\Mushrooms.exe
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\bin\Debug\Mushrooms.pdb
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\obj\Debug\Mushrooms.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\obj\Debug\Mushrooms_MarkupCompile.cache
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\obj\Debug\Mushrooms_MarkupCompile.lref
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\obj\Debug\Mushrooms.g.resources
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\obj\Debug\Mushrooms.Properties.Resources.resources
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\obj\Debug\Mushrooms.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\obj\Debug\Mushrooms.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\obj\Debug\Mushrooms.exe
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\obj\Debug\Mushrooms.pdb
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\bin\Debug\pkgDatabase.dll
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\bin\Debug\pkgDatabase.pdb
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\obj\Debug\Mushrooms.csproj.CopyComplete
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\bin\Debug\WpfDiscovery.dll
+\\vmware-host\Shared Folders\DBI\Mushrooms\Mushrooms\bin\Debug\WpfDiscovery.pdb
+Z:\Mushrooms\Mushrooms\bin\Debug\Mushrooms.exe.config
+Z:\Mushrooms\Mushrooms\bin\Debug\Mushrooms.exe
+Z:\Mushrooms\Mushrooms\bin\Debug\Mushrooms.pdb
+Z:\Mushrooms\Mushrooms\bin\Debug\pkgDatabase.dll
+Z:\Mushrooms\Mushrooms\bin\Debug\WpfDiscovery.dll
+Z:\Mushrooms\Mushrooms\bin\Debug\pkgDatabase.pdb
+Z:\Mushrooms\Mushrooms\bin\Debug\WpfDiscovery.pdb
+Z:\Mushrooms\Mushrooms\obj\Debug\Mushrooms.csprojAssemblyReference.cache
+Z:\Mushrooms\Mushrooms\obj\Debug\MainWindow.g.cs
+Z:\Mushrooms\Mushrooms\obj\Debug\App.g.cs
+Z:\Mushrooms\Mushrooms\obj\Debug\Mushrooms_MarkupCompile.cache
+Z:\Mushrooms\Mushrooms\obj\Debug\Mushrooms_MarkupCompile.lref
+Z:\Mushrooms\Mushrooms\obj\Debug\MainWindow.baml
+Z:\Mushrooms\Mushrooms\obj\Debug\Mushrooms.g.resources
+Z:\Mushrooms\Mushrooms\obj\Debug\Mushrooms.Properties.Resources.resources
+Z:\Mushrooms\Mushrooms\obj\Debug\Mushrooms.csproj.GenerateResource.cache
+Z:\Mushrooms\Mushrooms\obj\Debug\Mushrooms.csproj.CoreCompileInputs.cache
+Z:\Mushrooms\Mushrooms\obj\Debug\Mushrooms.csproj.CopyComplete
+Z:\Mushrooms\Mushrooms\obj\Debug\Mushrooms.exe
+Z:\Mushrooms\Mushrooms\obj\Debug\Mushrooms.pdb
+Z:\Mushrooms\Mushrooms\bin\Debug\Microsoft.SqlServer.Types.dll

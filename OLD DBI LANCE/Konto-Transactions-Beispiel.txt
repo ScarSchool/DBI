@@ -1,0 +1,9 @@
+1. Was kommt bei Oracle raus?
+   300, sonnst ergibt Frage 2 keinen Sinn :P
+   weil Read Commited bei Oracle einfach die alte ungeänderte Daten liefert.
+   
+2. Wann ist bei Oracle die Summe auch falsch?
+   Wenn das Update inkl. Commit fertig ist bevor der 2. Datensatz gelesen wird (50/50 Chance).
+
+3. Was stellt man bei beidem ein damits funktioniert?
+   Sum-Transaction auf Isolation Level Serializable setzten.

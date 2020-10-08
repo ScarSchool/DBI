@@ -1,0 +1,14 @@
+\\vmware-host\Shared Folders\DBI\Car01\Car01\bin\Release\Car01.exe.config
+\\vmware-host\Shared Folders\DBI\Car01\Car01\bin\Release\Car01.exe
+\\vmware-host\Shared Folders\DBI\Car01\Car01\bin\Release\Car01.pdb
+\\vmware-host\Shared Folders\DBI\Car01\Car01\obj\Release\MainWindow.g.cs
+\\vmware-host\Shared Folders\DBI\Car01\Car01\obj\Release\App.g.cs
+\\vmware-host\Shared Folders\DBI\Car01\Car01\obj\Release\Car01_MarkupCompile.cache
+\\vmware-host\Shared Folders\DBI\Car01\Car01\obj\Release\Car01_MarkupCompile.lref
+\\vmware-host\Shared Folders\DBI\Car01\Car01\obj\Release\MainWindow.baml
+\\vmware-host\Shared Folders\DBI\Car01\Car01\obj\Release\Car01.g.resources
+\\vmware-host\Shared Folders\DBI\Car01\Car01\obj\Release\Car01.Properties.Resources.resources
+\\vmware-host\Shared Folders\DBI\Car01\Car01\obj\Release\Car01.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\DBI\Car01\Car01\obj\Release\Car01.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\DBI\Car01\Car01\obj\Release\Car01.exe
+\\vmware-host\Shared Folders\DBI\Car01\Car01\obj\Release\Car01.pdb

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <CarId>22</CarId>
+    <CarName>Fiat 500</CarName>
+    <CarPrice>500.55</CarPrice>
+    <Type>MICRO</Type>
+    <CollOwners>
+      <Owner>
+        <OwnerId>4</OwnerId>
+        <OwnerName>Hagen 2</OwnerName>
+        <OwnerFrom>2012-01-12T00:00:00</OwnerFrom>
+        <OwnerTill>2013-04-15T00:00:00</OwnerTill>
+      </Owner>
+      <Owner>
+        <OwnerId>5</OwnerId>
+        <OwnerName>Giselherrr</OwnerName>
+        <OwnerFrom>2013-09-12T00:00:00</OwnerFrom>
+        <OwnerTill>2014-07-15T00:00:00</OwnerTill>
+      </Owner>
+      <Owner>
+        <OwnerId>6</OwnerId>
+        <OwnerName>Gunther</OwnerName>
+        <OwnerFrom>2015-01-12T00:00:00</OwnerFrom>
+        <OwnerTill>2020-01-17T11:24:31</OwnerTill>
+      </Owner>
+      <Owner>
+        <OwnerId>18</OwnerId>
+        <OwnerName>Joe</OwnerName>
+        <OwnerFrom>2020-01-17T00:00:00</OwnerFrom>
+        <OwnerTill>2020-01-17T00:00:00</OwnerTill>
+      </Owner>
+    </CollOwners>
+  </Car>
+  <Car>
+    <CarId>11</CarId>
+    <CarName>Ford Edsel</CarName>
+    <CarPrice>12000.99</CarPrice>
+    <Type>SEDAN</Type>
+    <CollOwners>
+      <Owner>
+        <OwnerId>2</OwnerId>
+        <OwnerName>Hagen</OwnerName>
+        <OwnerFrom>2002-01-12T00:00:00</OwnerFrom>
+        <OwnerTill>2009-04-15T00:00:00</OwnerTill>
+      </Owner>
+      <Owner>
+        <OwnerId>3</OwnerId>
+        <OwnerName>Siegfried</OwnerName>
+        <OwnerFrom>2010-01-12T00:00:00</OwnerFrom>
+        <OwnerTill>2012-07-15T00:00:00</OwnerTill>
+      </Owner>
+    </CollOwners>
+  </Car>
+</ArrayOfCar>
