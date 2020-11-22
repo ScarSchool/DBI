@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <collCars>
+    <Car>
+      <CarId>11</CarId>
+      <CarName>Isetta</CarName>
+      <Type>SUV</Type>
+    </Car>
+    <Car>
+      <CarId>22</CarId>
+      <CarName>Bsetta</CarName>
+      <Type>ECar</Type>
+    </Car>
+    <Car>
+      <CarId>33</CarId>
+      <CarName>Csetta</CarName>
+      <Type>LKW</Type>
+    </Car>
+    <Car>
+      <CarId>44</CarId>
+      <CarName>Isetta4444</CarName>
+      <Type>Other</Type>
+    </Car>
+    <Car>
+      <CarId>55</CarId>
+      <CarName>Dsetta</CarName>
+      <Type>Other</Type>
+    </Car>
+  </collCars>
+</Database>

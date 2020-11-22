@@ -1,0 +1,6 @@
+\\vmware-host\Shared Folders\WindowsShare\WindowsVisualStudio\Car01_New\Misc\bin\Debug\Misc.dll
+\\vmware-host\Shared Folders\WindowsShare\WindowsVisualStudio\Car01_New\Misc\bin\Debug\Misc.pdb
+\\vmware-host\Shared Folders\WindowsShare\WindowsVisualStudio\Car01_New\Misc\obj\Debug\Misc.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\WindowsShare\WindowsVisualStudio\Car01_New\Misc\obj\Debug\Misc.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\WindowsShare\WindowsVisualStudio\Car01_New\Misc\obj\Debug\Misc.dll
+\\vmware-host\Shared Folders\WindowsShare\WindowsVisualStudio\Car01_New\Misc\obj\Debug\Misc.pdb

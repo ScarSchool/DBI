@@ -1,0 +1,79 @@
+DROP TABLE scores CASCADE CONSTRAINTS;
+DROP TABLE players CASCADE CONSTRAINTS;
+DROP TABLE teams CASCADE CONSTRAINTS;
+
+DROP SEQUENCE seqTeam;
+DROP SEQUENCE seqPlayer;
+
+CREATE SEQUENCE seqTeam START WITH 0 MINVALUE 0;
+CREATE SEQUENCE seqPlayer START WITH 0 MINVALUE 0;
+
+CREATE TABLE teams (
+	id INTEGER,
+	country VARCHAR2(30),
+	coach VARCHAR2(30),
+	CONSTRAINT pkteams PRIMARY KEY (id)
+) ROWDEPENDENCIES;
+
+CREATE TABLE players (
+	id INTEGER,
+	name VARCHAR2(30),
+	birthdate DATE,
+	idteam INTEGER,
+	CONSTRAINT pkplayers PRIMARY KEY (id),
+	CONSTRAINT ukplayers UNIQUE (name),
+	CONSTRAINT fkplayers FOREIGN KEY (idteam) REFERENCES teams(id)
+) ROWDEPENDENCIES;
+
+CREATE TABLE scores (
+	gamedate DATE,
+	idopponent INTEGER, -- other team
+	goals INTEGER,
+	assists INTEGER,
+	idplayer INTEGER,
+    CONSTRAINT pkscores PRIMARY KEY (gamedate, idplayer),
+	CONSTRAINT fkscoreplayer FOREIGN KEY (idplayer) REFERENCES players,
+    CONSTRAINT fkscoreteam FOREIGN KEY (idopponent) REFERENCES teams
+) ROWDEPENDENCIES;
+
+
+INSERT INTO teams VALUES(seqTeam.NEXTVAL,'Austria','J. Hickersberger');
+INSERT INTO teams VALUES(seqTeam.NEXTVAL,'Italy','F. Capello');
+INSERT INTO teams VALUES(seqTeam.NEXTVAL,'Germany','U. Seeler');
+INSERT INTO teams VALUES(seqTeam.NEXTVAL,'North Corea','Kim');
+INSERT INTO teams VALUES(seqTeam.NEXTVAL,'South Corea','Aul Sang');
+INSERT INTO teams VALUES(seqTeam.NEXTVAL,'USA','D. Trump');
+
+SELECT * FROM teams;
+
+INSERT INTO players VALUES(seqPlayer.NEXTVAL,'T. Polster','10.11.65',1);
+INSERT INTO players VALUES(seqPlayer.NEXTVAL,'H. Krankl','10.12.65',1);
+INSERT INTO players VALUES(seqPlayer.NEXTVAL,'H. Prohaska','1.1.56',1);
+INSERT INTO players VALUES(seqPlayer.NEXTVAL,'Kim Jong Il','10.11.48',4);
+INSERT INTO players VALUES(seqPlayer.NEXTVAL,'Kim Il Sung','1.5.54',4);
+INSERT INTO players VALUES(seqPlayer.NEXTVAL,'P. Rossi','10.11.65',2);
+INSERT INTO players VALUES(seqPlayer.NEXTVAL,'W. Zenga','4.6.52',2);
+INSERT INTO players VALUES(seqPlayer.NEXTVAL,'F. Gentile','10.11.65',2);
+INSERT INTO players VALUES(seqPlayer.NEXTVAL,'G. Mueller','10.11.55',3);
+INSERT INTO players VALUES(seqPlayer.NEXTVAL,'F. Beckenbauer','10.11.49',3);
+INSERT INTO players VALUES(seqPlayer.NEXTVAL,'O. Kahn','10.11.71',3);
+
+SELECT * FROM players;
+
+INSERT INTO scores VALUES(TO_DATE('10.04.2009','DD.MM.YYYY'),14,0,2,1);
+INSERT INTO scores VALUES(TO_DATE('10.4.2009','DD.MM.YYYY'),14,1,2,2);
+INSERT INTO scores VALUES(TO_DATE('10.4.2009','DD.MM.YYYY'),14,0,1,3);
+INSERT INTO scores VALUES(TO_DATE('10.4.2010','DD.MM.YYYY'),15,0,2,1);
+INSERT INTO scores VALUES(TO_DATE('10.4.2010','DD.MM.YYYY'),15,0,2,2);
+INSERT INTO scores VALUES(TO_DATE('10.4.2010','DD.MM.YYYY'),15,0,2,3);
+INSERT INTO scores VALUES(TO_DATE('10.5.2009','DD.MM.YYYY'),1,1,0,4);
+INSERT INTO scores VALUES(TO_DATE('10.5.2009','DD.MM.YYYY'),1,2,2,5);
+INSERT INTO scores VALUES(TO_DATE('10.5.2009','DD.MM.YYYY'),1,0,5,6);
+INSERT INTO scores VALUES(TO_DATE('10.1.2009','DD.MM.YYYY'),3,0,2,4);
+INSERT INTO scores VALUES(TO_DATE('10.2.2009','DD.MM.YYYY'),3,0,2,5);
+INSERT INTO scores VALUES(TO_DATE('10.3.2009','DD.MM.YYYY'),3,0,2,6);
+INSERT INTO scores VALUES(TO_DATE('10.8.2009','DD.MM.YYYY'),3,0,2,1);
+
+SELECT * FROM scores;
+
+COMMIT;

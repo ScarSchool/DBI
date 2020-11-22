@@ -1,0 +1,35 @@
+C:\Users\schueler\Documents\4BHIF\Car01\PkgData\bin\Debug\PkgData.dll
+C:\Users\schueler\Documents\4BHIF\Car01\PkgData\bin\Debug\PkgData.pdb
+C:\Users\schueler\Documents\4BHIF\Car01\PkgData\obj\Debug\PkgData.csprojAssemblyReference.cache
+C:\Users\schueler\Documents\4BHIF\Car01\PkgData\obj\Debug\PkgData.csproj.CoreCompileInputs.cache
+C:\Users\schueler\Documents\4BHIF\Car01\PkgData\obj\Debug\PkgData.dll
+C:\Users\schueler\Documents\4BHIF\Car01\PkgData\obj\Debug\PkgData.pdb
+C:\Users\schueler\Documents\4BHIF\Car03\PkgData\bin\Debug\PkgData.dll
+C:\Users\schueler\Documents\4BHIF\Car03\PkgData\bin\Debug\PkgData.pdb
+C:\Users\schueler\Documents\4BHIF\Car03\PkgData\bin\Debug\PkgMISC.dll
+C:\Users\schueler\Documents\4BHIF\Car03\PkgData\bin\Debug\PkgMISC.pdb
+C:\Users\schueler\Documents\4BHIF\Car03\PkgData\obj\Debug\PkgData.csprojAssemblyReference.cache
+C:\Users\schueler\Documents\4BHIF\Car03\PkgData\obj\Debug\PkgData.csproj.CoreCompileInputs.cache
+C:\Users\schueler\Documents\4BHIF\Car03\PkgData\obj\Debug\PkgData.csproj.CopyComplete
+C:\Users\schueler\Documents\4BHIF\Car03\PkgData\obj\Debug\PkgData.dll
+C:\Users\schueler\Documents\4BHIF\Car03\PkgData\obj\Debug\PkgData.pdb
+C:\Users\schueler\Documents\4BHIF\Car04\PkgData\bin\Debug\PkgData.dll
+C:\Users\schueler\Documents\4BHIF\Car04\PkgData\bin\Debug\PkgData.pdb
+C:\Users\schueler\Documents\4BHIF\Car04\PkgData\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\schueler\Documents\4BHIF\Car04\PkgData\bin\Debug\PkgMISC.dll
+C:\Users\schueler\Documents\4BHIF\Car04\PkgData\bin\Debug\PkgMISC.pdb
+C:\Users\schueler\Documents\4BHIF\Car04\PkgData\obj\Debug\PkgData.csprojAssemblyReference.cache
+C:\Users\schueler\Documents\4BHIF\Car04\PkgData\obj\Debug\PkgData.csproj.CoreCompileInputs.cache
+C:\Users\schueler\Documents\4BHIF\Car04\PkgData\obj\Debug\PkgData.csproj.CopyComplete
+C:\Users\schueler\Documents\4BHIF\Car04\PkgData\obj\Debug\PkgData.dll
+C:\Users\schueler\Documents\4BHIF\Car04\PkgData\obj\Debug\PkgData.pdb
+\\vmware-host\Shared Folders\SharedFolder\Car04\PkgData\bin\Debug\PkgData.dll
+\\vmware-host\Shared Folders\SharedFolder\Car04\PkgData\bin\Debug\PkgData.pdb
+\\vmware-host\Shared Folders\SharedFolder\Car04\PkgData\bin\Debug\Oracle.ManagedDataAccess.dll
+\\vmware-host\Shared Folders\SharedFolder\Car04\PkgData\bin\Debug\PkgMISC.dll
+\\vmware-host\Shared Folders\SharedFolder\Car04\PkgData\bin\Debug\PkgMISC.pdb
+\\vmware-host\Shared Folders\SharedFolder\Car04\PkgData\obj\Debug\PkgData.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\SharedFolder\Car04\PkgData\obj\Debug\PkgData.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\SharedFolder\Car04\PkgData\obj\Debug\PkgData.csproj.CopyComplete
+\\vmware-host\Shared Folders\SharedFolder\Car04\PkgData\obj\Debug\PkgData.dll
+\\vmware-host\Shared Folders\SharedFolder\Car04\PkgData\obj\Debug\PkgData.pdb

@@ -1,0 +1,140 @@
+﻿<Window x:Class="Mushrooms.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Mushrooms"
+        mc:Ignorable="d"
+        Title="Magic Mushrooms" Height="720" Width="1280"
+        Background="#FF3B3B47"
+        >
+    <Grid Background="#FF3F3F57">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="28px"/>
+            <RowDefinition Height="599*"/>
+            <RowDefinition Height="16*"/>
+            <RowDefinition Height="16"/>
+            <RowDefinition Height="32"/>
+        </Grid.RowDefinitions>
+
+        <Menu Grid.Row="0" FontSize="16px">
+            <MenuItem Header="File">
+                <MenuItem x:Name="miStoreAsXml" Header="Store as XML" Click="OnMenuItemClicked" IsEnabled="False"/>
+            </MenuItem>
+            <MenuItem Header="Database">
+                <MenuItem x:Name="miLoadDB" Header="Load DB" Click="OnMenuItemClicked"/>
+                <MenuItem x:Name="miCommit" Header="Commit" Click="OnMenuItemClicked" IsEnabled="False"/>
+                <MenuItem x:Name="miRollback" Header="Rollback" Click="OnMenuItemClicked" IsEnabled="False"/>
+            </MenuItem>
+            <MenuItem x:Name="miMushroom" Header="Mushrooms" IsEnabled="False">
+                <MenuItem x:Name="miAdd" Header="Add" Click="OnMenuItemClicked"/>
+                <MenuItem x:Name="miUpdate" Header="Update" Click="OnMenuItemClicked"/>
+                <MenuItem x:Name="miRemove" Header="Remove" Click="OnMenuItemClicked"/>
+                <MenuItem x:Name="miDiscoveries" Header="Discoveries" Click="OnMenuItemClicked"/>
+            </MenuItem>
+        </Menu>
+
+        <Grid Grid.Row="1" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="146*"/>
+                <ColumnDefinition Width="331*"/>
+                <ColumnDefinition Width="795*"/>
+            </Grid.ColumnDefinitions>
+
+            <DataGrid Grid.Column="0" 
+                      x:Name="dgMushrooms"
+                      SelectionChanged="OnDgRowSelected"
+                      AutoGenerateColumns="False" CanUserAddRows="False" 
+                      FontSize="16px" Margin="8px" Background="#FF5D5D70"
+                      Foreground="Black" Grid.ColumnSpan="2"
+                      >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="id" 
+                                        Binding="{Binding Id}" 
+                                        IsReadOnly="True"
+                                        Width="1*"
+                                        />
+                    <DataGridTextColumn Header="name" 
+                                        Binding="{Binding Name}"
+                                        Width="3*"/>
+                    <DataGridTextColumn Header="cap color" 
+                                        Binding="{Binding CapColor}"
+                                        Width="3*"/>
+                    <DataGridTextColumn Header="stem color"
+                                        Binding="{Binding StemColor}" 
+                                        Width="3*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <Grid Grid.Column="2" Margin="8px">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="6*"/>
+                </Grid.RowDefinitions>
+
+                <Label Grid.Column="0" Grid.Row="0"
+                       Content="Usefulness:"
+                       FontSize="16px"
+                       VerticalContentAlignment="Center"
+                       Foreground="White"/>
+
+                <ComboBox Grid.Column="3" Grid.Row="0"
+                          x:Name="cbUseful" SelectionChanged="UsefulChanged"
+                          Height="40px" FontSize="16px" Margin="10,25,6,10"
+                          VerticalContentAlignment="Center"
+                          Foreground="Black">
+                    <ComboBox.Background>
+                        <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                            <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                            <GradientStop Color="White" Offset="1"/>
+                        </LinearGradientBrush>
+                    </ComboBox.Background>
+                </ComboBox>
+
+                <Label Grid.Column="0" Grid.Row="1"
+                       Content="Map picture path:"
+                       FontSize="16px"
+                       VerticalContentAlignment="Center"
+                       Foreground="White"/>
+
+                <TextBox Grid.Column="1" Grid.Row="1" 
+                         Grid.ColumnSpan="2"
+                         x:Name="tbPathPic" TextChanged="PathPicChanged"
+                         Height="40px" FontSize="16px" Margin="8px"
+                         VerticalContentAlignment="Center"
+                         Background="#FF8383A0"
+                         Foreground="White"/>
+
+                <Button Grid.Column="3" Grid.Row="1"
+                        Content="Choose File" Click="OpenFileDialog"
+                        Height="40px" FontSize="16px" Margin="8px"
+                        Background="#FFA7A7DA"
+                        Foreground="White"/>
+
+                <TextBox Grid.Column="0" Grid.Row="2"
+                         Grid.ColumnSpan="4"
+                         x:Name="tbDescription" TextChanged="DescriptionChanged"
+                         AcceptsReturn="True"
+                         FontSize="16px" Margin="103,46,102,46"
+                         Background="#FF8383A0"
+                         Foreground="White"/>
+            </Grid>
+        </Grid>
+
+        <Label Grid.Row="3"
+               x:Name="lblStatus"
+               VerticalAlignment="Center" Height="48" Background="#FF5D5D70"
+               Foreground="White" Grid.RowSpan="2"
+               >
+
+            Status will go here!
+        </Label>
+    </Grid>
+</Window>

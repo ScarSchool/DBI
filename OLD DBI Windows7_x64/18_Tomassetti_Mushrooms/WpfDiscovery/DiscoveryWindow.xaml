@@ -1,0 +1,69 @@
+﻿<Window x:Class="WpfDiscovery.DiscoveryWindow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:local="clr-namespace:WpfDiscovery"
+             mc:Ignorable="d" 
+             Title="Magic Mushrooms" Height="720" Width="1280">
+    <Grid Background="#FF3F3F57">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="48px"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="48px"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+
+            <Menu Grid.Column="0" Margin="4px" 
+                  FontSize="16px"
+                  Background="#FF5D5D70"
+                  Foreground="White">
+                <MenuItem Header="Quick Commands" Foreground="White">
+                    <MenuItem x:Name="miShowDiscoveries" Header="Show Discoveries" Click="OnMenuItemClicked" Background="#FF5D5D70" BorderBrush="#FF5D5D70"/>
+                    <MenuItem x:Name="miHideDiscoveries" Header="Hide Discoveries" Click="OnMenuItemClicked" Background="#FF5D5D70" BorderBrush="#FF5D5D70"/>
+                    <MenuItem x:Name="miShowDistance" Header="Show Distance" Click="OnMenuItemClicked" Background="#FF5D5D70" BorderBrush="#FF5D5D70"/>
+                    <MenuItem x:Name="miShowNeighbours" Header="Show Neighbours" Click="OnMenuItemClicked" Background="#FF5D5D70" BorderBrush="#FF5D5D70"/>
+                    <MenuItem x:Name="miAddNote" Header="Add note" Click="OnMenuItemClicked" Background="#FF5D5D70" BorderBrush="#FF5D5D70"/>
+                </MenuItem>
+            </Menu>
+
+            <ComboBox x:Name="cbMushrooms" Grid.Column="1"
+                      Margin="4px" FontSize="16px"
+                      >
+                <ComboBox.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </ComboBox.Background>
+            </ComboBox>
+
+            <DatePicker x:Name="dpDateDiscovery" Grid.Column="2"
+                        Margin="4px" VerticalContentAlignment="Center"
+                        Background="#FF5D5D70"/>
+            <Label Visibility="Hidden" x:Name="AmountLabel" Foreground="White" Content="Amount:" Grid.Column="3" HorizontalAlignment="Left" Margin="15,11,0,0" VerticalAlignment="Top"/>
+            <Label Visibility="Hidden" Foreground="White" x:Name="AmountLabelCount" Content=""  Grid.Column="3" HorizontalAlignment="Left" Margin="75,11,0,0" VerticalAlignment="Top"/>
+            <Slider Visibility="Hidden" ValueChanged="AmountSlider_ValueChanged" IsEnabled="True" x:Name="AmountSlider" Value="5"  Grid.Column="3" HorizontalAlignment="Left" Margin="134,15,0,0" VerticalAlignment="Top" Width="345"/>
+        </Grid>
+
+        <Canvas x:Name="canvasMap" Grid.Row="1" Height="543" Width="1167">
+            <Image x:Name="imgMap" MouseLeftButtonDown="OnLeftMouseButton" MouseMove="OnMouseMove" MouseRightButtonUp="OnMoveHunter" Height="543" Width="1167" />
+            <Rectangle x:Name="markerHunter" Height="8" Width="8" Fill="Yellow" Panel.ZIndex="-10"/>
+        </Canvas>
+
+        <Label Grid.Row="2"
+               x:Name="lblStatus"
+               VerticalAlignment="Center"
+               Background="#FF5D5D70"
+               Foreground="White" Height="48">
+            Status will go here!
+        </Label>
+    </Grid>
+</Window>

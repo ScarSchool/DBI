@@ -1,0 +1,56 @@
+Z:\Soccer\Soccer\bin\Debug\Soccer.exe.config
+Z:\Soccer\Soccer\bin\Debug\Soccer.exe
+Z:\Soccer\Soccer\bin\Debug\Soccer.pdb
+Z:\Soccer\Soccer\bin\Debug\pkgData.dll
+Z:\Soccer\Soccer\bin\Debug\pkgData.pdb
+Z:\Soccer\Soccer\obj\Debug\Soccer.csprojAssemblyReference.cache
+Z:\Soccer\Soccer\obj\Debug\MainWindow.g.cs
+Z:\Soccer\Soccer\obj\Debug\App.g.cs
+Z:\Soccer\Soccer\obj\Debug\Soccer_MarkupCompile.cache
+Z:\Soccer\Soccer\obj\Debug\Soccer_MarkupCompile.lref
+Z:\Soccer\Soccer\obj\Debug\MainWindow.baml
+Z:\Soccer\Soccer\obj\Debug\Soccer.g.resources
+Z:\Soccer\Soccer\obj\Debug\Soccer.Properties.Resources.resources
+Z:\Soccer\Soccer\obj\Debug\Soccer.csproj.GenerateResource.cache
+Z:\Soccer\Soccer\obj\Debug\Soccer.csproj.CoreCompileInputs.cache
+Z:\Soccer\Soccer\obj\Debug\Soccer.csproj.CopyComplete
+Z:\Soccer\Soccer\obj\Debug\Soccer.exe
+Z:\Soccer\Soccer\obj\Debug\Soccer.pdb
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\bin\Debug\Soccer.exe.config
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\bin\Debug\Soccer.exe
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\bin\Debug\Soccer.pdb
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\bin\Debug\pkgData.dll
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\bin\Debug\Oracle.ManagedDataAccess.dll
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\bin\Debug\pkgData.pdb
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\obj\Debug\Soccer.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\obj\Debug\Soccer_MarkupCompile.cache
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\obj\Debug\Soccer_MarkupCompile.lref
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\obj\Debug\Soccer.g.resources
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\obj\Debug\Soccer.Properties.Resources.resources
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\obj\Debug\Soccer.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\obj\Debug\Soccer.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\obj\Debug\Soccer.csproj.CopyComplete
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\obj\Debug\Soccer.exe
+\\vmware-host\Shared Folders\DBI\Soccer\Soccer\obj\Debug\Soccer.pdb
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\bin\Debug\Soccer.exe.config
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\bin\Debug\Soccer.exe
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\bin\Debug\Soccer.pdb
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\bin\Debug\pkgData.dll
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\bin\Debug\pkgData.pdb
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\obj\Debug\Soccer.csprojAssemblyReference.cache
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\obj\Debug\MainWindow.g.cs
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\obj\Debug\App.g.cs
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\obj\Debug\Soccer_MarkupCompile.cache
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\obj\Debug\Soccer_MarkupCompile.lref
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\obj\Debug\MainWindow.baml
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\obj\Debug\Soccer.g.resources
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\obj\Debug\Soccer.Properties.Resources.resources
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\obj\Debug\Soccer.csproj.GenerateResource.cache
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\obj\Debug\Soccer.csproj.CoreCompileInputs.cache
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\obj\Debug\Soccer.csproj.CopyComplete
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\obj\Debug\Soccer.exe
+C:\Users\scarc\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Soccer\Soccer\obj\Debug\Soccer.pdb

@@ -1,0 +1,27 @@
+\\vmware-host\Shared Folders\Share\Car01\PkgData\bin\Debug\PkgData.dll
+\\vmware-host\Shared Folders\Share\Car01\PkgData\bin\Debug\PkgData.pdb
+\\vmware-host\Shared Folders\Share\Car01\PkgData\obj\Debug\PkgData.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Share\Car01\PkgData\obj\Debug\PkgData.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Share\Car01\PkgData\obj\Debug\PkgData.dll
+\\vmware-host\Shared Folders\Share\Car01\PkgData\obj\Debug\PkgData.pdb
+D:\DBI\4te\Car01\PkgData\bin\Debug\PkgData.dll
+D:\DBI\4te\Car01\PkgData\bin\Debug\PkgData.pdb
+D:\DBI\4te\Car01\PkgData\obj\Debug\PkgData.csprojAssemblyReference.cache
+D:\DBI\4te\Car01\PkgData\obj\Debug\PkgData.csproj.CoreCompileInputs.cache
+D:\DBI\4te\Car01\PkgData\obj\Debug\PkgData.dll
+D:\DBI\4te\Car01\PkgData\obj\Debug\PkgData.pdb
+A:\WindowsShare\WindowsVisualStudio\Car01\PkgData\bin\Debug\PkgData.dll
+A:\WindowsShare\WindowsVisualStudio\Car01\PkgData\bin\Debug\PkgData.pdb
+A:\WindowsShare\WindowsVisualStudio\Car01\PkgData\obj\Debug\PkgData.csprojAssemblyReference.cache
+A:\WindowsShare\WindowsVisualStudio\Car01\PkgData\obj\Debug\PkgData.csproj.CoreCompileInputs.cache
+A:\WindowsShare\WindowsVisualStudio\Car01\PkgData\obj\Debug\PkgData.dll
+A:\WindowsShare\WindowsVisualStudio\Car01\PkgData\obj\Debug\PkgData.pdb
+\\vmware-host\Shared Folders\WindowsShare\WindowsVisualStudio\Car01_New\PkgData\bin\Debug\PkgData.dll
+\\vmware-host\Shared Folders\WindowsShare\WindowsVisualStudio\Car01_New\PkgData\bin\Debug\PkgData.pdb
+\\vmware-host\Shared Folders\WindowsShare\WindowsVisualStudio\Car01_New\PkgData\bin\Debug\Misc.dll
+\\vmware-host\Shared Folders\WindowsShare\WindowsVisualStudio\Car01_New\PkgData\bin\Debug\Misc.pdb
+\\vmware-host\Shared Folders\WindowsShare\WindowsVisualStudio\Car01_New\PkgData\obj\Debug\PkgData.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\WindowsShare\WindowsVisualStudio\Car01_New\PkgData\obj\Debug\PkgData.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\WindowsShare\WindowsVisualStudio\Car01_New\PkgData\obj\Debug\PkgData.csproj.CopyComplete
+\\vmware-host\Shared Folders\WindowsShare\WindowsVisualStudio\Car01_New\PkgData\obj\Debug\PkgData.dll
+\\vmware-host\Shared Folders\WindowsShare\WindowsVisualStudio\Car01_New\PkgData\obj\Debug\PkgData.pdb

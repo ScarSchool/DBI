@@ -1,0 +1,35 @@
+﻿<Window x:Class="Car01_Tomassetti.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Car01_Tomassetti"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="843.5">
+    <Grid Background="#FFF3F3F3">
+        <Grid HorizontalAlignment="Left" Height="289" Margin="46,63,0,0" VerticalAlignment="Top" Width="124" Background="LightGray">
+            <Button x:Name="btnAddCar" Content="Add Car" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="104" Height="32" Click="btnAddCar_Click"/>
+            <Button x:Name="btnRmCar" Content="Remove Car" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Width="104" Height="32" Click="btnRmCar_Click"/>
+            <Button x:Name="btnUpdateCar" Content="Update Car" HorizontalAlignment="Left" Margin="10,87,0,0" VerticalAlignment="Top" Width="104" Height="29" Click="btnUpdateCar_Click"/>
+        </Grid>
+        <Label x:Name="lblMessage" Content="" HorizontalAlignment="Left" Margin="10,388,0,0" VerticalAlignment="Top" Height="28" Width="816" Background="#FFCBCBCB"/>
+        <Grid HorizontalAlignment="Left" Height="94" VerticalAlignment="Top" Width="484" Margin="302,63,0,0" Background="#FFD8D8D8">
+            <Label Content="Car-Id:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+            <Label Content="Car-Name:" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="tbCarId" HorizontalAlignment="Left" Height="26" Margin="110,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="1"/>
+            <TextBox x:Name="tbCarName" HorizontalAlignment="Left" Height="26" Margin="110,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="364"/>
+        </Grid>
+        <ListView x:Name="listCars" HorizontalAlignment="Left" Height="152" Margin="302,200,0,0" VerticalAlignment="Top" Width="484" Background="White" SelectionChanged="onCarSelectionChanged">
+
+        </ListView>
+        <Button x:Name="btnSort" Content="Sort" HorizontalAlignment="Left" Margin="302,178,0,0" VerticalAlignment="Top" Width="75" Click="btnSort_Click"/>
+        <Menu HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="836">
+            <MenuItem Header="File" Height="30" Width="100">
+                <MenuItem x:Name="miStoreBin" Header="Store" HorizontalAlignment="Left" Height="30" Width="145" Click="miStoreBin_Click"/>
+                <MenuItem x:Name="miLoadBin" Header="Load" HorizontalAlignment="Left" Height="30" Width="145" Click="miLoadBin_Click"/>
+            </MenuItem>
+            <MenuItem Header="Owner" Height="30" Width="100"/>
+        </Menu>
+
+    </Grid>
+</Window>

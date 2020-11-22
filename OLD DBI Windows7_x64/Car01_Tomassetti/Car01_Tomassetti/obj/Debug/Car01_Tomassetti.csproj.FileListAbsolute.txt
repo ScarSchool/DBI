@@ -1,0 +1,45 @@
+C:\Users\schueler\source\repos\Car01_Tomassetti\Car01_Tomassetti\bin\Debug\Car01_Tomassetti.exe.config
+C:\Users\schueler\source\repos\Car01_Tomassetti\Car01_Tomassetti\bin\Debug\Car01_Tomassetti.exe
+C:\Users\schueler\source\repos\Car01_Tomassetti\Car01_Tomassetti\bin\Debug\Car01_Tomassetti.pdb
+C:\Users\schueler\source\repos\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.csprojAssemblyReference.cache
+C:\Users\schueler\source\repos\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\MainWindow.g.cs
+C:\Users\schueler\source\repos\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\App.g.cs
+C:\Users\schueler\source\repos\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti_MarkupCompile.cache
+C:\Users\schueler\source\repos\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti_MarkupCompile.lref
+C:\Users\schueler\source\repos\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\MainWindow.baml
+C:\Users\schueler\source\repos\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.g.resources
+C:\Users\schueler\source\repos\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.Properties.Resources.resources
+C:\Users\schueler\source\repos\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.csproj.GenerateResource.cache
+C:\Users\schueler\source\repos\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.csproj.CoreCompileInputs.cache
+C:\Users\schueler\source\repos\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.exe
+C:\Users\schueler\source\repos\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.pdb
+\\vmware-host\Shared Folders\SharedFolder\Car01_Tomassetti\Car01_Tomassetti\bin\Debug\Car01_Tomassetti.exe.config
+\\vmware-host\Shared Folders\SharedFolder\Car01_Tomassetti\Car01_Tomassetti\bin\Debug\Car01_Tomassetti.exe
+\\vmware-host\Shared Folders\SharedFolder\Car01_Tomassetti\Car01_Tomassetti\bin\Debug\Car01_Tomassetti.pdb
+\\vmware-host\Shared Folders\SharedFolder\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\SharedFolder\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\SharedFolder\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\SharedFolder\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti_MarkupCompile.cache
+\\vmware-host\Shared Folders\SharedFolder\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti_MarkupCompile.lref
+\\vmware-host\Shared Folders\SharedFolder\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\SharedFolder\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.g.resources
+\\vmware-host\Shared Folders\SharedFolder\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.Properties.Resources.resources
+\\vmware-host\Shared Folders\SharedFolder\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\SharedFolder\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\SharedFolder\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.exe
+\\vmware-host\Shared Folders\SharedFolder\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.pdb
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Car01_Tomassetti\Car01_Tomassetti\bin\Debug\Car01_Tomassetti.exe.config
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Car01_Tomassetti\Car01_Tomassetti\bin\Debug\Car01_Tomassetti.exe
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Car01_Tomassetti\Car01_Tomassetti\bin\Debug\Car01_Tomassetti.pdb
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.csprojAssemblyReference.cache
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\MainWindow.g.cs
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\App.g.cs
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti_MarkupCompile.cache
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti_MarkupCompile.lref
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\MainWindow.baml
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.g.resources
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.Properties.Resources.resources
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.csproj.GenerateResource.cache
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.csproj.CoreCompileInputs.cache
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.exe
+C:\Users\Loris\OneDrive\Dokumente\Schuljahr2019-2020\DBI\DBI-ORG\Windows7_x64\Car01_Tomassetti\Car01_Tomassetti\obj\Debug\Car01_Tomassetti.pdb

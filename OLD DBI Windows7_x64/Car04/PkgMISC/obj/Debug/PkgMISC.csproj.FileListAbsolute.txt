@@ -1,0 +1,6 @@
+C:\Users\schueler\Documents\4BHIF\Car03\PkgMISC\bin\Debug\PkgMISC.dll
+C:\Users\schueler\Documents\4BHIF\Car03\PkgMISC\bin\Debug\PkgMISC.pdb
+C:\Users\schueler\Documents\4BHIF\Car03\PkgMISC\obj\Debug\PkgMISC.csprojAssemblyReference.cache
+C:\Users\schueler\Documents\4BHIF\Car03\PkgMISC\obj\Debug\PkgMISC.csproj.CoreCompileInputs.cache
+C:\Users\schueler\Documents\4BHIF\Car03\PkgMISC\obj\Debug\PkgMISC.dll
+C:\Users\schueler\Documents\4BHIF\Car03\PkgMISC\obj\Debug\PkgMISC.pdb

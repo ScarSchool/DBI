@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Mushrooms>
+    <Mushroom>
+      <Id>1</Id>
+      <Name>Chanterelle</Name>
+      <Useful>EDIBLE</Useful>
+      <CapColor>yellow</CapColor>
+      <StemColor>yellow</StemColor>
+      <Description>frequently found</Description>
+      <ImagePath />
+    </Mushroom>
+    <Mushroom>
+      <Id>2</Id>
+      <Name>Fly Amanita</Name>
+      <Useful>TOXIC</Useful>
+      <CapColor>red</CapColor>
+      <StemColor>white</StemColor>
+      <Description>frequently found</Description>
+      <ImagePath />
+    </Mushroom>
+    <Mushroom>
+      <Id>3</Id>
+      <Name>Penny Bun</Name>
+      <Useful>INEDIBLE</Useful>
+      <CapColor>brown</CapColor>
+      <StemColor>grey</StemColor>
+      <Description>not frequently found</Description>
+      <ImagePath />
+    </Mushroom>
+  </Mushrooms>
+  <Discoveries>
+    <Discovery>
+      <Id>1</Id>
+      <Mushroom>
+        <Id>1</Id>
+        <Name>Chanterelle</Name>
+        <Useful>EDIBLE</Useful>
+        <CapColor>yellow</CapColor>
+        <StemColor>yellow</StemColor>
+        <Description>frequently found</Description>
+        <ImagePath />
+      </Mushroom>
+      <Date>2018-04-14T00:00:00</Date>
+      <X>332</X>
+      <Y>122</Y>
+      <Longitude>13.579347</Longitude>
+      <Latitude>13.579347</Latitude>
+    </Discovery>
+    <Discovery>
+      <Id>2</Id>
+      <Mushroom>
+        <Id>1</Id>
+        <Name>Chanterelle</Name>
+        <Useful>EDIBLE</Useful>
+        <CapColor>yellow</CapColor>
+        <StemColor>yellow</StemColor>
+        <Description>frequently found</Description>
+        <ImagePath />
+      </Mushroom>
+      <Date>2018-02-14T00:00:00</Date>
+      <X>640</X>
+      <Y>342</Y>
+      <Longitude>13.615478</Longitude>
+      <Latitude>13.615478</Latitude>
+    </Discovery>
+    <Discovery>
+      <Id>3</Id>
+      <Mushroom>
+        <Id>2</Id>
+        <Name>Fly Amanita</Name>
+        <Useful>TOXIC</Useful>
+        <CapColor>red</CapColor>
+        <StemColor>white</StemColor>
+        <Description>frequently found</Description>
+        <ImagePath />
+      </Mushroom>
+      <Date>2018-04-16T00:00:00</Date>
+      <X>1153</X>
+      <Y>527</Y>
+      <Longitude>13.675658</Longitude>
+      <Latitude>13.675658</Latitude>
+    </Discovery>
+    <Discovery>
+      <Id>4</Id>
+      <Mushroom>
+        <Id>3</Id>
+        <Name>Penny Bun</Name>
+        <Useful>INEDIBLE</Useful>
+        <CapColor>brown</CapColor>
+        <StemColor>grey</StemColor>
+        <Description>not frequently found</Description>
+        <ImagePath />
+      </Mushroom>
+      <Date>2020-03-01T00:00:00</Date>
+      <X>670</X>
+      <Y>148</Y>
+      <Longitude>13.556697</Longitude>
+      <Latitude>13.556697</Latitude>
+    </Discovery>
+  </Discoveries>
+</Database>
